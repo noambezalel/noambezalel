@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @noambezalel
-- 👀 I’m interested in Motion Design, React, UI/UX design.
-- 🌱 I’m currently learning React and JS
-- 💞️ I’m looking to collaborate on fun projects and interesting ideas.
-- 📫 You can send me an email: 1noambez@gmail.com :)
+🏆
